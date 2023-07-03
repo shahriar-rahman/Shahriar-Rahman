@@ -82,9 +82,6 @@
 
 ### Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahriar-rahman&theme=algolia&utcOffset=8)
-<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahriar-rahman&theme=algolia) 
-<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahriar-rahman&theme=algolia) 
 <br/>
 </p>
