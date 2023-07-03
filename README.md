@@ -27,7 +27,8 @@
 <img width="70%" src="src/files/profile_1.gif" alt="Signature.gif">
 
 </p>
---------
+-------- 
+
 <p align="center">
 ## 🖥️ Projects and Research 
     
