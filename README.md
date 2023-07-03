@@ -26,13 +26,12 @@
 
 <img width="70%" src="src/files/profile_1.gif" alt="Signature.gif">
 
-### 🖥️ Projects and Research
+<span style="font-family:Lucida Sans Unicode; color:#80450e; font-size: 25px"> 🖥️ Projects and Research </span>
 <table>
-<tr><th>Machine Learning </th><th>Deep Learning</th></tr>
+<tr><th>Deep Learning </th><th> Machine Learning </th></tr>
 <tr><td>
-
 | Title | Technologies |
-|--|--|--|
+| [Minecraft-AI]() | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) |
 </td><td>
 
 <tr><td>
