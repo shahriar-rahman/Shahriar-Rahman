@@ -26,7 +26,8 @@
 
 <img width="70%" src="src/files/profile_1.gif" alt="Signature.gif">
 
-<span style="font-family:Lucida Sans Unicode; color:#80450e; font-size: 50px; align=center"> 🖥️ Projects and Research </span>
+## 🖥️ Projects and Research 
+
 <table>
 <tr><th>Deep Learning </th><th> Machine Learning </th></tr>
 <tr><td>
