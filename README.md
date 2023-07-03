@@ -39,5 +39,5 @@
 ### Machine Learning
 | Research Title | Modules & Technologies |
 |--|--|
-| [A Comparative Analysis of Amazon Book Ratings using Collaborative Filtering](https://github.com/shahriar-rahman/A-Comparative-Analysis-of-Amazon-Book-Ratings-using-Collaborative-Filtering) | ![spaCy](https://img.shields.io/badge/spaCy-09a3d5.svg?style=flat-square) ![scikit-surprise](https://img.shields.io/badge/surprise?style=flat-squareColor=orange)|
+| [A Comparative Analysis of Amazon Book Ratings using Collaborative Filtering](https://github.com/shahriar-rahman/A-Comparative-Analysis-of-Amazon-Book-Ratings-using-Collaborative-Filtering) | ![spaCy](https://img.shields.io/badge/spaCy-09a3d5.svg?style=flat-square) ![scikit-surprise](https://img.shields.io/badge/scikit-%surprise?style=flat-squareColor=orange)|
 </p>
