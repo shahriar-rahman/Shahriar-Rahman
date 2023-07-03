@@ -1,10 +1,10 @@
-
-<img width="100%" src="src/files/profile_1.gif" alt="Signature.gif">
 <p align="center">
 <a href="https://github.com/shahriar-rahman">
     <img src="https://readme-typing-svg.demolab.com?font=Lucida+Sans&size=19&duration=2000&pause=100&multiline=true&width=345&height=125&lines=Shahriar+Rahman;Researcher+%7C+Data+Engineer;Data+Analyst+%7C+Artificial+Intelligence;Machine+Learning+%7C+Deep+Learning" alt="Typing SVG" />
 </a>
 <br/>
+
+<img width="100%" src="src/files/profile_1.gif" alt="Signature.gif">
 
 <a href="https://www.linkedin.com/in/shahriar-rahman-05804521b/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
