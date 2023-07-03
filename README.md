@@ -24,12 +24,6 @@
 
 <br/>
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
 <img width="70%" src="src/files/profile_1.gif" alt="Signature.gif" align="center">
 
 
