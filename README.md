@@ -26,4 +26,11 @@
 
 <img width="70%" src="src/files/profile_1.gif" alt="Signature.gif">
 
+### 🖥️ Projects and Research
+<table>
+<tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
+<tr><td>
+
+| Title | Technologies |
+
 </p>
