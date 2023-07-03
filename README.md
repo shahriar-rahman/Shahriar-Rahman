@@ -24,7 +24,7 @@
 
 <br/>
 <div align="center">
-    <img width="70%" src="src/files/profile_1.gif" alt="Signature.gif" align="center">
+    <img width="70%" src="src/files/profile_1.gif" alt="Signature.gif" >
 </div>
 
 
@@ -85,7 +85,7 @@
 | [Contact Management System](https://github.com/shahriar-rahman/Contact-Management-System) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) |
 
 <div align="center">
-    <img width="60%" src="src/files/profile_3.gif" alt="Signature.gif" align="center">
+    <img width="60%" src="src/files/profile_3.gif" alt="Signature.gif">
 </div>
 
 ### Github Stats
