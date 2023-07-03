@@ -88,5 +88,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahriar-rahman&theme=algolia) 
 <br/>
 
-<img width="70%" src="src/files/profile_2.gif" alt="Signature.gif">
 </p>
