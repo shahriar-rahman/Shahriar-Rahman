@@ -79,4 +79,10 @@
 | [Socket Server Admin-User for Rock-Paper-Scissor](https://github.com/shahriar-rahman/Socket-Server-Rock-Paper-Scissor) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)  ![Socket](https://img.shields.io/badge/-Socket-gray?style=flat&logo=surprise&link=https://github.com/shahriar-rahman) |
 | [Structuring Data Graphs](https://github.com/shahriar-rahman/Data-Structures-Graph) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-squared&logo=c%2B%2B&logoColor=white)  ![Data Structures](https://img.shields.io/badge/-data_structures-gray?style=flat&logo=surprise&link=https://github.com/shahriar-rahman) |
 | [Contact Management System](https://github.com/shahriar-rahman/Contact-Management-System) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) |
+
+### Github Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=dracula)
+
 </p>
