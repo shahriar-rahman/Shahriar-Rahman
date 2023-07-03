@@ -87,5 +87,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahriar-rahman&theme=algolia&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahriar-rahman&theme=algolia) 
 <br/>
-<img height="30%" width="65%" src="src/files/profile_2.gif" alt="Signature.gif">
+<img height="10%" width="65%" src="src/files/profile_2.gif" alt="Signature.gif">
 </p>
