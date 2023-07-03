@@ -4,7 +4,7 @@
 </a>
 <br/>
 
-<img width="100%" src="src/files/profile_1.gif" alt="Signature.gif">
+<img width="50%" src="src/files/profile_1.gif" alt="Signature.gif">
 
 <a href="https://www.linkedin.com/in/shahriar-rahman-05804521b/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
