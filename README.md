@@ -30,6 +30,8 @@
 
 
 ## 🖥️ Projects and Research 
+
+<img width="60%" src="src/files/profile_3.gif" alt="Signature.gif">
     
 ### Deep Learning
 | Research Title | Modules & Technologies |
