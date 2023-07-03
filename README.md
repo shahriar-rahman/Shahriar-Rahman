@@ -8,6 +8,6 @@
 </a>
 
 <a href="https://www.researchgate.net/profile/Shahriar-Rahman-8">
-    <img src=![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)>
+    <img src=https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white>
 </a>
 
