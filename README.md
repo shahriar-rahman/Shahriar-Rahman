@@ -8,6 +8,10 @@
 </a>
 
 <a href="https://www.researchgate.net/profile/Shahriar-Rahman-8">
-    <img src=https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white>
+    <img src=https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=green>
+</a>
+
+<a href="https://www.coursera.org/user/0b776c181ae9d9c1799140f5b2971bb8">
+    <img src=(https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat-square&logo=Coursera&logoColor=blue>
 </a>
 
