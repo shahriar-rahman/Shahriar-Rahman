@@ -32,6 +32,7 @@
 <tr><th>Deep Learning </th><th> Machine Learning </th></tr>
 <tr><td>
 | Title | Technologies |
+|--|--|
 | [Automated Detection of Cardiac Arrhythmia based on a Hybrid CNN-LSTM Network](https://github.com/shahriar-rahman/Automated-Detection-of-Cardiac-Arrhythmia) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) |
 </td><td>
 
