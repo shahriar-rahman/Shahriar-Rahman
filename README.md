@@ -26,7 +26,7 @@
 
 <img width="70%" src="src/files/profile_1.gif" alt="Signature.gif">
 
-
+--------
 ## 🖥️ Projects and Research 
 
 ### Deep Learning
