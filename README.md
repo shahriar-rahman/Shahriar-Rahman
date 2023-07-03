@@ -25,7 +25,7 @@
 <br/>
 <div align="center">
     <img width="70%" src="src/files/profile_1.gif" alt="Signature.gif" align="center">
-</div>div>
+</div>
 
 
 -------- 
@@ -84,7 +84,9 @@
 | [Structuring Data Graphs](https://github.com/shahriar-rahman/Data-Structures-Graph) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-squared&logo=c%2B%2B&logoColor=white)  ![Data Structures](https://img.shields.io/badge/-data_structures-gray?style=flat&logo=surprise&link=https://github.com/shahriar-rahman) |
 | [Contact Management System](https://github.com/shahriar-rahman/Contact-Management-System) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) |
 
-<img width="60%" src="src/files/profile_3.gif" alt="Signature.gif" align="center">
+<div align="center">
+    <img width="60%" src="src/files/profile_3.gif" alt="Signature.gif" align="center">
+</div>
 
 ### Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahriar-rahman&theme=algolia&utcOffset=8)
