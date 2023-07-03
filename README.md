@@ -39,6 +39,6 @@
 
 | Title | Technologies |
 
-</td><td>
+</td></tr> </table>
     
 </p>
