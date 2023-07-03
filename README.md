@@ -1,7 +1,7 @@
 
 <p align="center">
 <a href="https://github.com/shahriar-rahman">
-    <img src="https://readme-typing-svg.demolab.com?font=Impact&size=18&duration=2000&pause=100&multiline=true&width=400&height=90&lines=Shahriar+Rahman;Researcher+%7C+Data+Engineer+%7C+Data+Analyst;Artificial+Intelligence+%7C+Machine+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Impact&size=20&duration=2000&pause=100&multiline=true&width=300&height=90&lines=Shahriar+Rahman;Researcher+%7C+Data+Engineer+%7C+Data+Analyst;Artificial+Intelligence+%7C+Machine+Learning" alt="Typing SVG" />
 </a>
 <br/>
 
