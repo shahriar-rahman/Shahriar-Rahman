@@ -28,7 +28,7 @@
 
 ### 🖥️ Projects and Research
 <table>
-<tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
+<tr><th>Machine Learning </th><th>Data Science</th></tr>
 <tr><td>
 
 | Title | Technologies |
