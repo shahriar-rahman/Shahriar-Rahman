@@ -59,6 +59,12 @@
 | [Scraping Amazon Daily Offers using Selenium Webdriver](https://github.com/shahriar-rahman/Amazon-Today-Using-Selenium-Webdriver) | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) |
 | [Extraction Unlisted Zone Shares data using Scrapy](https://github.com/shahriar-rahman/Unlisted-Zone-Shares-Data-Extraction) | ![scrapy](https://img.shields.io/badge/-scrapy-gray?style=flat&logo=surprise&link=https://github.com/shahriar-rahman)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) |
 
+### Database & Web Development
+| Research Title | Modules & Technologies |
+|--|--|
+| [Travel Agency System](https://github.com/shahriar-rahman/Travel-Agency-System/tree/main) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) |
+
+
 ### Bots & Algorithms
 | Research Title | Modules & Technologies |
 |--|--|
