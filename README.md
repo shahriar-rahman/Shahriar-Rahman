@@ -1,4 +1,5 @@
 
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cooper+Black&weight=50&duration=2000&pause=120&color=75EBD3&background=0A221F00&center=true&multiline=true&width=435&height=100&lines=Shahriar+Rahman;Researcher+%7C+ML+Engineer;Data+Engineer+%7C+Data+Analyst)](https://git.io/typing-svg)
 <br/>
 
@@ -18,3 +19,4 @@
     <img src=https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat-square&logo=Coursera&logoColor=white>
 </a>
 
+</p>
