@@ -28,9 +28,17 @@
 
 ### 🖥️ Projects and Research
 <table>
-<tr><th>Machine Learning </th><th>Data Science</th></tr>
+<tr><th>Machine Learning </th><th>Deep Learning</th></tr>
 <tr><td>
 
 | Title | Technologies |
 
+</td><td>
+
+<tr><td>
+
+| Title | Technologies |
+
+</td><td>
+    
 </p>
