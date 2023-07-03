@@ -39,5 +39,5 @@
 ### Machine Learning
 | Research Title | Modules & Technologies |
 |--|--|
-| [A Comparative Analysis of Amazon Book Ratings using Collaborative Filtering](https://github.com/shahriar-rahman/A-Comparative-Analysis-of-Amazon-Book-Ratings-using-Collaborative-Filtering) | ![spaCy](https://img.shields.io/badge/spaCy-09a3d5.svg?style=flat-square) ![scikit-surprise](https://img.shields.io/badge/-surprise-green?style=flat&logo=surprise&link=https://github.com/shahriar-rahman)  ![NLTK](https://img.shields.io/badge/-NLTK-red?style=flat&logo=nltk&link=https://github.com/shahriar-rahman)|
+| [A Comparative Analysis of Amazon Book Ratings using Collaborative Filtering](https://github.com/shahriar-rahman/A-Comparative-Analysis-of-Amazon-Book-Ratings-using-Collaborative-Filtering) | ![scikit-surprise](https://img.shields.io/badge/-surprise-green?style=flat&logo=surprise&link=https://github.com/shahriar-rahman) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)  ![NLTK](https://img.shields.io/badge/-NLTK-red?style=flat&logo=nltk&link=https://github.com/shahriar-rahman) ![spaCy](https://img.shields.io/badge/spaCy-09a3d5.svg?style=flat-square) |
 </p>
