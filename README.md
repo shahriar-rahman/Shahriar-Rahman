@@ -1,6 +1,6 @@
 
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cooper+Black&weight=50&duration=2000&pause=120&color=75EBD3&background=0A221F00&center=true&multiline=true&width=435&height=100&lines=Shahriar+Rahman;Researcher+%7C+ML+Engineer;Data+Engineer+%7C+Data+Analyst)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Cooper+Black&weight=50&duration=2000&pause=120&color=75EBD3&background=0A221F00&center=true&multiline=true&width=435&height=100&lines=Shahriar+Rahman;Researcher+%7C+ML+Engineer;Data+Engineer+%7C+Data+Analyst)](https://git.io/typing-svg)
 <br/>
 
 <img width="70%" src="src/files/profile_1.gif" alt="Signature.gif">
