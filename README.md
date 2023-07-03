@@ -1,4 +1,11 @@
 
+<p align="center">
+<a href="https://github.com/shahriar-rahman">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Shahriar+Rahman;Researcher+%7C+Data+Engineer;
+	Artificial+Intelligence+%7C+Machine+Learning+%7C+Data+Analyst" alt="Typing SVG" />
+</a>
+<br/>
+
 <a href="https://www.linkedin.com/in/shahriar-rahman-05804521b/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
