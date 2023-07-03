@@ -83,6 +83,7 @@
 ---
 <img width="70%" src="src/files/profile_3.gif" alt="Signature.gif">
 ---
+
 ### Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriar-rahman&theme=algolia) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahriar-rahman&theme=algolia&utcOffset=8)
