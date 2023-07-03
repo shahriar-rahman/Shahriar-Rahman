@@ -23,8 +23,9 @@
 </a>
 
 <br/>
-
-<img width="70%" src="src/files/profile_1.gif" alt="Signature.gif" align="center">
+<div align="center">
+    <img width="70%" src="src/files/profile_1.gif" alt="Signature.gif" align="center">
+</div>div>
 
 
 -------- 
