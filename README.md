@@ -32,13 +32,13 @@
 <tr><td>
 
 | Title | Technologies |
-
+|--|--|--|
 </td><td>
 
 <tr><td>
 
 | Title | Technologies |
-
+|--|--|--|
 </td></tr> </table>
     
 </p>
