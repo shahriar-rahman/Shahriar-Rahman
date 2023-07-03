@@ -81,5 +81,5 @@
 | [Contact Management System](https://github.com/shahriar-rahman/Contact-Management-System) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) |
 
 ### Github Stats
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriar-rahman&theme=codeSTACKr)
 </p>
