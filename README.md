@@ -35,7 +35,7 @@
 -------- 
 
 
-## 🖥️ Notable Projects and Research 
+## 🖥️ Notable Research and Projects
     
 ### Deep Learning
 | Research Title | Modules & Technologies |
