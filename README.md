@@ -98,6 +98,7 @@
 
 
 ### Github Stats
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriar-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="shahriar" /> </p>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahriar-rahman&theme=algolia&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahriar-rahman&theme=algolia) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriar-rahman&theme=algolia) 
