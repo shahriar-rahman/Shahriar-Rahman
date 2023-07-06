@@ -104,6 +104,7 @@
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar-rahman&theme=nightowl&hide_border=true&card_width=700" alt="shahriar" />
 </p>
 
+![](https://github-readme-stats.vercel.app/api?username=shahriar-rahman&hide=prs,issues&theme=nightowl)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriar-rahman&theme=algolia) 
 <br/>
 </p>
