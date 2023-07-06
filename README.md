@@ -98,7 +98,7 @@
 
 
 ### Github Stats
-![](https://github-readme-stats.vercel.app/api?username=shahriar-rahman&hide=prs,issues&theme=nightowl&hide_border=true&card_width=400)
+![](https://github-readme-stats.vercel.app/api?username=shahriar-rahman&hide=prs,issues&theme=nightowl&hide_border=true&card_width=400&card_height=300)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shahriar-rahman&theme=nightowl&hide_border=true&card_width=400)
 <br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahriar-rahman&theme=algolia) 
