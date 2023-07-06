@@ -28,7 +28,7 @@
 
 <br/>
 <div align="center">
-    <img width="65%" src="src/files/profile_1.gif" alt="Signature.gif" >
+    <img width="60%" src="src/files/profile_1.gif" alt="Signature.gif" >
 </div>
 
 
