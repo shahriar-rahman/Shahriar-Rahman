@@ -100,9 +100,7 @@
 ### Github Stats
 <p>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar-rahman&theme=dark" alt="shahriar" />
-</p>
-<p>
-    <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahriar-rahman&theme=algolia&utcOffset=8" alt="shahriar" />
+    <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahriar-rahman&theme=algolia&utcOffset=8" alt="shahriar" />
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahriar-rahman&theme=algolia&utcOffset=8)
