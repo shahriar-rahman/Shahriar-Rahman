@@ -102,7 +102,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahriar-rahman&theme=algolia) 
 
 <p>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=shahriar-rahman&theme=nightowl&border_radius=4&mode=weekly&card_width=700" alt="shahriar" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=shahriar-rahman&theme=nightowl&hide_border=true&border_radius=4&mode=weekly&card_width=700" alt="shahriar" />
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriar-rahman&theme=algolia) 
