@@ -98,7 +98,7 @@
 
 
 ### Github Stats
-![](https://github-readme-stats.vercel.app/api?username=shahriar-rahman&hide=prs,issues&theme=nightowl)
+![](https://github-readme-stats.vercel.app/api?username=shahriar-rahman&hide=prs,issues&theme=nightowl&hide_border=true&card_width=700)
 <br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahriar-rahman&theme=algolia) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahriar-rahman&theme=algolia&utcOffset=8)
