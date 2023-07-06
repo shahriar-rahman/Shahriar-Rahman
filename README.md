@@ -103,6 +103,5 @@
 <br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahriar-rahman&theme=nightowl)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shahriar-rahman&theme=nightowl&hide_border=true&card_width=400&card_height=400)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriar-rahman&theme=nightowl) 
 <br/>
 </p>
