@@ -98,6 +98,10 @@
 
 
 ### Github Stats
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar-rahman&theme=dark" alt="shahriar" />
+</p>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahriar-rahman&theme=algolia&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahriar-rahman&theme=algolia) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriar-rahman&theme=algolia) 
