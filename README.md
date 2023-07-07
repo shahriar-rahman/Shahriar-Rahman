@@ -83,7 +83,7 @@
 
 
 ### Miscellaneous
-| Research Topic | Modules & Technologies |
+| Research Topic | Modules & Technologies | Stars |
 |--|--|--|
 | [CLIPS Programming based on Family Relationship Decision Trees](https://github.com/shahriar-rahman/Clips-Programming-Decision-Tree-Family) | ![clips](https://img.shields.io/badge/-clips-gray?style=flat&logo=surprise&link=https://github.com/shahriar-rahman)  ![AI](https://img.shields.io/badge/-artificial_intelligence-blue?style=flat&logo=surprise&link=https://github.com/shahriar-rahman) | 
 <img alt="Stars" src="https://img.shields.io/github/stars/shahriar-rahman/Clips-Programming-Decision-Tree-Family?style=flat-square&labelColor=black"/> |
