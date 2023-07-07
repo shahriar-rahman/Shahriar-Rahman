@@ -97,7 +97,6 @@
     <img width="60%" src="src/files/profile_3.gif" alt="Signature.gif">
 </div>
 
-
 ### Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahriar-rahman&theme=nightowl) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahriar-rahman&theme=nightowl&utcOffset=8) 
