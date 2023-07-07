@@ -94,7 +94,7 @@
 | [Contact Management System](https://github.com/shahriar-rahman/Contact-Management-System) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat-square&logo=apache-netbeans-ide&logoColor=white) | <img alt="Stars" src="https://img.shields.io/github/stars/shahriar-rahman/Contact-Management-System?style=flat-square&labelColor=indigo"/> |
 
 <div align="center">
-    <img width="60%" src="src/files/profile_3.gif" alt="Signature.gif">
+    <img width="45%" src="src/files/profile_3.gif" alt="Signature.gif">
 </div>
 
 ### Github Stats
