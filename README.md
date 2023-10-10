@@ -37,7 +37,7 @@
 
 ## 🖥️ Notable Projects and Research
     
-### ◘ Deep Learning <span style="font-family:Lucida Sans Unicode; color:#80450e; font-size: 25px"> 1 Construct proper data </span>
+### ◘ Deep Learning
 | Research Topic | Modules & Technologies | Engagements |
 | :-: | :-: | :-: |
 | <p align="left">[Cardiac Arrhythmia based on a Hybrid CNN-LSTM Network](https://github.com/shahriar-rahman/Automated-Detection-of-Cardiac-Arrhythmia) </p> | <p align="left"> [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://link.springer.com/chapter/10.1007/978-981-16-8774-7_32)  ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green) </p> |   <p align="center"><img alt="Stars" src="https://img.shields.io/github/stars/shahriar-rahman/Automated-Detection-of-Cardiac-Arrhythmia?style=plastic&labelColor=indigo&color=03689e"/> <img alt="Forks" src="https://img.shields.io/github/forks/shahriar-rahman/Automated-Detection-of-Cardiac-Arrhythmia?style=plastic&labelColor=maroon&color=red"/> </p> |
