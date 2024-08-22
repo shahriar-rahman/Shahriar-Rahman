@@ -89,14 +89,12 @@
 </div>
 
 ### Github Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahriar-rahman&theme=nightowl) 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahriar-rahman&theme=nightowl)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahriar-rahman&theme=nightowl&utcOffset=8) 
 
 <br/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahriar-rahman&theme=nightowl) 
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shahriar-rahman&theme=nightowl&hide_border=true&card_width=400&card_height=200)
 
 <br/>
